@@ -1,0 +1,18 @@
+{
+  "person": [
+    {
+      "firstName": "tambu",
+      "lastName": "chandru",
+      "email": "ragavan201999@gmail.com",
+      "password": "A",
+      "id": 1
+    },
+    {
+      "firstName": "ram",
+      "lastName": "charn",
+      "email": "Mukil@gmail.com",
+      "password": "A",
+      "id": 2
+    }
+  ]
+}
